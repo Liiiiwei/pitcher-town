@@ -1,0 +1,4 @@
+:HL["/pitcher-town/_next/static/chunks/0-c~8~~-5h_zb.css","style"]
+:HL["/pitcher-town/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pitcher-town/_next/static/media/Cubic_11-s.p.07m5qf8wb-vsk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"guild","param":null,"prefetchHints":0,"slots":{"children":{"name":"quest","param":null,"prefetchHints":0,"slots":{"children":{"name":"episodeId","param":{"type":"d","key":"M3-EP02b","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"EzYrZ6DlKvYJ38IQE2oKw"}

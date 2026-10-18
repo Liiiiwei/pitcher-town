@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fguild\u002Fcommission\u002F[commissionId]","\u002Fguild\u002Fquest\u002F[episodeId]","\u002Fstreet\u002F[shopId]","\u002Fweekly\u002F[week]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
