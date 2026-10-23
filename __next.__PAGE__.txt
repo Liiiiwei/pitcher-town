@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[36426,["/pitcher-town/_next/static/chunks/0u0g0932cxelq.js","/pitcher-town/_next/static/chunks/0e~s6lht.zgz1.js","/pitcher-town/_next/static/chunks/0eopd7l1sd~uz.js"],"ClientPageRoot"]
-3:I[27120,["/pitcher-town/_next/static/chunks/0u0g0932cxelq.js","/pitcher-town/_next/static/chunks/0e~s6lht.zgz1.js","/pitcher-town/_next/static/chunks/0eopd7l1sd~uz.js","/pitcher-town/_next/static/chunks/12dt8odhbb~8m.js"],"default"]
-6:I[63159,["/pitcher-town/_next/static/chunks/0u0g0932cxelq.js","/pitcher-town/_next/static/chunks/0e~s6lht.zgz1.js","/pitcher-town/_next/static/chunks/0eopd7l1sd~uz.js"],"OutletBoundary"]
+2:I[36426,["/pitcher-town/_next/static/chunks/0u0g0932cxelq.js","/pitcher-town/_next/static/chunks/05gg7jrdve51_.js","/pitcher-town/_next/static/chunks/0eopd7l1sd~uz.js"],"ClientPageRoot"]
+3:I[27120,["/pitcher-town/_next/static/chunks/0u0g0932cxelq.js","/pitcher-town/_next/static/chunks/05gg7jrdve51_.js","/pitcher-town/_next/static/chunks/0eopd7l1sd~uz.js","/pitcher-town/_next/static/chunks/12dt8odhbb~8m.js"],"default"]
+6:I[63159,["/pitcher-town/_next/static/chunks/0u0g0932cxelq.js","/pitcher-town/_next/static/chunks/05gg7jrdve51_.js","/pitcher-town/_next/static/chunks/0eopd7l1sd~uz.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/pitcher-town/_next/static/chunks/12dt8odhbb~8m.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9N7xk8Sv0vYdj_ymZX1ie"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/pitcher-town/_next/static/chunks/12dt8odhbb~8m.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_OnDs1W8QQ9D-jo5J-BVq"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
