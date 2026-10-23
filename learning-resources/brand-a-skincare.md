@@ -58,20 +58,10 @@
 
 ---
 
-## 四、事件追蹤地圖（給作業 1 段落二（事件地圖）用）
-
-| 事件 | 觸發時機 | 優先級（AEM） | 參數 |
-|------|---------|:---:|------|
-| Purchase | 完成結帳 | 1 | value=1280, currency=TWD, content_ids=[ha-serum] |
-| InitiateCheckout | 進入結帳頁 | 2 | value, content_ids |
-| AddToCart | 加入購物車 | 3 | value, content_ids |
-| ViewContent | 瀏覽產品頁 | 4 | content_ids |
-| Search | 站內搜尋 | 5 | — |
-| PageView | 進入任一頁 | 6 | — |
+## 四、廣告目標建議
 
 - **建議廣告目標**：Sales（銷售）
 - **建議最佳化事件**：初期數據不夠可先用 AddToCart，累積後改 Purchase
-- **歸因窗口**：7 天點擊 + 1 天瀏覽
 
 ---
 
