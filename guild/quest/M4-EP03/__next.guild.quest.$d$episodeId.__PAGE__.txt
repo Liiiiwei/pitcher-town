@@ -2,5 +2,5 @@
 2:I[2038,["/pitcher-town/_next/static/chunks/0c6xr_l~txmry.js","/pitcher-town/_next/static/chunks/0pooxsqbbxenf.js","/pitcher-town/_next/static/chunks/0k~huu3r~u8fa.js","/pitcher-town/_next/static/chunks/0_y0uvpmk_m1w.js"],"QuestRunner"]
 3:I[63159,["/pitcher-town/_next/static/chunks/0c6xr_l~txmry.js","/pitcher-town/_next/static/chunks/0pooxsqbbxenf.js","/pitcher-town/_next/static/chunks/0k~huu3r~u8fa.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"episodeId":"M4-EP03"}],[["$","script","script-0",{"src":"/pitcher-town/_next/static/chunks/0_y0uvpmk_m1w.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Op4yG5GSRGMtHzanP6GJp"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"episodeId":"M4-EP03"}],[["$","script","script-0",{"src":"/pitcher-town/_next/static/chunks/0_y0uvpmk_m1w.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"YGFQaM0djrUA5Fp8gsgGd"}
 5:null
